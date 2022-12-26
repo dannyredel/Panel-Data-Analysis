@@ -1,4 +1,4 @@
-# Panel-Data-Analysis
+# Panel Data Analysis Course
 Notes and Assignments of the course "Panel Data Analysis of Microeconomic Decisions" at Tilburg University.
 
 ---
