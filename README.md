@@ -1,5 +1,5 @@
 # Panel Data Analysis Course
-Notes and Assignments of the course "Panel Data Analysis of Microeconomic Decisions" at Tilburg University.
+Notes and Assignments of the graduate course "Panel Data Analysis of Microeconomic Decisions" at Tilburg University (2022).
 
 ### Lecture Notes
 **Part I: Static & Dynamic Panel Data Models**
